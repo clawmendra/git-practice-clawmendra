@@ -1,0 +1,11 @@
+2773ea0 Merge pull request #1 from ThunderUp2002/feature-ThunderUp2002
+fefc8ba Create new file
+d219eb0 Merge features branch into main Merge branch 'features'
+5941a1b Added new line to file_1.txt
+c2d3c57 Add new features to new_features.txt
+23e7530 add empty file
+c0daa56 Add .igitignore file to ingore api-keys.txt
+b20efd3 adding readme file
+590908a added comment-2
+39e6b5e added comment
+eb59bd9 create new files

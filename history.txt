@@ -1,0 +1,155 @@
+   29  git clone https://github.com/docker/welcome-to-docker
+   31  git clone https://github.com/docker/multi-container-app
+   32  git clone https://github.com/docker/multi-container-app
+   51  git clone https://github.com/docker/bindmount-apps
+   61  brew install git
+  147  git pull
+  150  git pull
+  154  cd cd .gitconfig 
+  155  cd .gitconfig 
+  156  git init
+  157  git pull
+  169  git clone https://github.com/clawmendra/chess.git
+  174  git commit -am "inital(notes) creation"
+  175  git push
+  177  git commit -am "initial(notes) creation"
+  178  git push
+  179  git commit -am "initial(notes) creation"
+  180  git push
+  181  git init
+  183  git init
+  189  git commit -am "initial(notes) creation"
+  190  git push
+  191  git push
+  192  git clone https://github.com/clawmendra/chess.git
+  211  git clone https://github.com/clawmendra/chess.git
+  214  git add notes.md
+  215  git commit -am "initial(notes) creation"
+  216  git push
+  217  git --version
+  218  git config --global user.name "Almendra Clawson"
+  219  git config -- global user.email mendrav@gmail.com
+  220  git config --global user.name "Almendra Clawson"
+  221  git config --global init.defaultBranch main
+  222  git config --list
+  223  git --version
+  225  .git
+  226  git status
+  227  git config --list
+  229  mkdir git-practice
+  231  cd git-practice/
+  233  git status
+  234  git init
+  235  git status
+  239  rm git-practice/
+  240  mkdir git-practice-clawmendra
+  241  cd git-practice/
+  243  cd git-practice-clawmendra/
+  244  git init
+  246  git status
+  249  git status
+  250  git init
+  256  cd git-practice/
+  260  cd git-practice-clawmendra/
+  262  git status
+  263  git log
+  264  git status
+  265  git add file_1.txt 
+  266  git add file_2.txt
+  267  git status
+  268  git commit -m "create new files"
+  269  git status
+  270  git log
+  272  git status
+  273  git add file_1.txt 
+  274  git commit -m "added comment"
+  275  git status
+  276  git commit -m "added comment-2"
+  277  git add file_2.txt 
+  278  git commit -m "added comment-2"
+  279  git log
+  291  cd git-practice-clawmendra/
+  302  git add Readme.md
+  303  git commit Readme.md
+  304  git init
+  307  cd git-practice-clawmendra/
+  310  git status
+  311  git commit -m "adding readme file"
+  312  git status
+  314  cd git clone https://github.com/softwareconstruction240/softwareconstruction.git softwareconstruction240
+  315  git init
+  316  git clone https://github.com/softwareconstruction240/softwareconstruction.git softwareconstruction240
+  347  git add.
+  348  git add .
+  349  git status
+  379  git add .
+  380  git commit -am "init(phase0)"
+  381  git push
+  384   cd git-practice-clawmendra/
+  386  mkdir .gitignore
+  389  git add .gitignore
+  390  git commit .gitignore
+  392  git clean -xdn
+  393  echo "api-keys.txt" >.gitignore
+  394  cd .gitignore
+  399  nano .gitignore
+  402  rm -r .gitignore
+  404  touch .gitignore
+  406  echo "api-keys.txt" >.gitignore
+  408  cat .gitignore
+  409  git add .gitignore
+  410  git commit -m "Add .igitignore file to ingore api-keys.txt"
+  412  git status
+  414  git status
+  415  git branch features
+  416  git checkout features
+  417  git log --oneline --graph --decorate --all
+  419  git add new_features.txt 
+  420  git commit -m "add empty file"
+  425  git add new_features.txt 
+  426  git commit -m "Add new features to new_features.txt"
+  427  git checkout main
+  430  git add file_1.txt
+  431  git commit -m "Added new line to file_1.txt"
+  432  git checkout main
+  433  git merge features
+  434  git log
+  436  git checkout main
+  439  git add new_features.txt 
+  440  git commit new_features.txt 
+  442  git status
+  443  git commit new_features.txt 
+  444  cd Desktop/Fall2024/stat386/git-practice-clawmendra/
+  447  git checkout features
+  448  git add new_features.txt 
+  449  git commit new_features.txt 
+  450  git checkout main
+  452  git merge features
+  454  git branch -d features
+  455  git remote add origin git@github.com:clawmendra/git-practice-clawmendra.git
+  456  git push -u origin main
+  460  git remote add origin git@github.com:clawmendra/git-practice-clawmendra.git
+  461  git push -u origin main
+  463  git clone git@github.com:clawmendra/git-practice-ThunderUp2002.git
+  464  git checkout -b feature--clawmendra
+  466  cd git-practice/
+  468  cd git-practice-ThunderUp2002/
+  472  git add file_1.txt 
+  473  git commit file_1.txt 
+  474  git status
+  475  git commit -m "Almendra was here--change"
+  476  git push origin feature--clawmendra
+  477  git push origin feature-clawmendra
+  478  git push origin feature--clawmendra
+  479  git branch
+  480  git checkout feature--clawmendra
+  485  cd git-practice-ThunderUp2002/
+  486   git checkout -b feature--clawmendra
+  489  git add file_1.txt 
+  490  git commit file_1.txt 
+  491  git push origin feature--clawmendra
+  503  cd git-practice/
+  505  cd git-practice-clawmendra/
+  506  git pull
+  508  git log --oneline > gitlog.txt
+  510  history | grep git > history.txt
